@@ -87,9 +87,9 @@ real_time_chat_app
 > https://github.com/Devmayurbit/real_time_chat_app/tree/main/screenshot
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Devmayurbit/real_time_chat_app/main/screenshot/chat1.jpg" width="300"/>
-  <img src="https://raw.githubusercontent.com/Devmayurbit/real_time_chat_app/main/screenshot/chat2.jpg" width="300"/>
-  <img src="https://raw.githubusercontent.com/Devmayurbit/real_time_chat_app/main/screenshot/chat3.jpg" width="300"/>
+  <img src="https://raw.githubusercontent.com/Devmayurbit/real_time_chat_app/main/screenshot/p1.jpeg" width="320"/>
+  <img src="https://raw.githubusercontent.com/Devmayurbit/real_time_chat_app/main/screenshot/p2.jpeg" width="320"/>
+  <img src="https://raw.githubusercontent.com/Devmayurbit/real_time_chat_app/main/screenshot/p3.jpeg" width="320"/>
 </p>
 
 ---
@@ -116,6 +116,21 @@ npm start
 Frontend will run on:
 
 http://localhost:5173
+
+
+## 🧑‍💻 Development Environment
+
+### 🖥 Backend
+- Developed using **IntelliJ IDEA**
+- Spring Boot project with Maven
+- WebSocket real-time communication
+- Runs on port **8080**
+
+### 🌐 Frontend
+- Developed using **React.js**
+- Vite + npm
+- Modern responsive UI
+- Runs on port **5173**
 
 
 🔄 Real-Time Flow
