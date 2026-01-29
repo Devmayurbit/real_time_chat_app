@@ -107,7 +107,7 @@ mvn spring-boot:run
 Backend will run on:
 
 http://localhost:8080
-
+---
 🌈 Frontend Setup
 cd frontend
 npm install
@@ -117,7 +117,7 @@ Frontend will run on:
 
 http://localhost:5173
 
-
+---
 ## 🧑‍💻 Development Environment
 
 ### 🖥 Backend
@@ -125,14 +125,14 @@ http://localhost:5173
 - Spring Boot project with Maven
 - WebSocket real-time communication
 - Runs on port **8080**
-
+---
 ### 🌐 Frontend
 - Developed using **React.js**
 - Vite + npm
 - Modern responsive UI
 - Runs on port **5173**
 
-
+---
 🔄 Real-Time Flow
 
 🟢 User connects to WebSocket
@@ -140,14 +140,14 @@ http://localhost:5173
 📩 Message sent → broadcast instantly
 👥 Online users update in real time
 🔄 Persistent storage in database
-
+---
 🧪 Testing Tips
 
 ✔ Open two browser tabs
 ✔ Login as different users
 ✔ Send messages instantly
 ✔ Observe live updates
-
+---
 🌟 Future Enhancements
 
 🚀 Private chat rooms
@@ -156,11 +156,12 @@ http://localhost:5173
 🔐 End-to-end encryption
 ☁ Cloud deployment
 📱 Mobile app version
-
+---
 👨‍💻 Author
 
 Mayur Sonwane
 🔗 GitHub: https://github.com/Devmayurbit
-
+---
 <p align="center"> ⚡ Built with passion • Designed for speed • Powered by Java & React </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9F5,100:00F5A0&height=140&section=footer"/> </p> 
 
+---
